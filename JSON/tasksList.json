@@ -1,0 +1,19 @@
+[
+  {
+    "task": "Wash Hands",
+    "steps": ["Turn on faucet", "Wet hands", "Turn off faucet", "Get soap", "Scrub hands together", "Turn on faucet", "Rinse soap off hands", "Turn off faucet"],
+    "icons": ["TurnOnFaucet.png", "WetHands.png", "TurnOffFaucet.png", "GetSoap.png", "ScrubHands.png", "TurnOnFaucet.png", "RinseSoapOffHands.png", "TurnOffFaucet.png"],
+    "icons": ["TurnOnFaucet.png", "WetHands.png", "TurnOffFaucet.jpg", "GetSoap.png", "ScrubHands.png", "TurnOnFaucet.png", "RinseSoapOffHands.png", "TurnOffFaucet.jpg"]
+  },
+  {
+    "task": "Brush Teeth",
+    "steps": ["Wash hands", "Find toothpaste and toothbrush", "Wet toothbrush", "Add toothpaste", "Brush for 2 minutes", "Rinse Mouth"],
+    "icons": ["WashHands.png", "FindToothbrushAndPaste.png", "WetToothbrush.png", "AddToothpaste.png", "Brush2Mins.png", "RinseMouth.png"]
+  },
+  {
+    "task": "Shower",
+    "steps": ["Turn on shower", "Get shampoo", "Scrub head with shampoo", "Get body wash", "Apply and scrub body wash", "Wash off shampoo and body wash", "Turn off shower", "Dry body and hair with towel"],
+    "icons": ["TurnOnShower.png", "GetHairShampoo.png", "ScrubHeadWHairShampoo.png", "GetBodyWash.png", "ApplyAndScrubBodyWash.png", "WashOffBodyWash.png", "TurnOffShower.png", "DryBodyTowel.png"]
+  }
+  
+  ]
